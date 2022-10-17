@@ -9,7 +9,7 @@ An education company named X Education sells online courses to industry professi
 ## Repository Contents:
 - LeadScoringCaseStudy.ipynb : Python notebook file with data analysis and modeling. 
 - AssignmentSubjectiveQuestions.pdf : Answers to the subjective quesitons posed by the company.
-- LeadScoreCaseStudyPresentation.pdf : Presentation of the findings.
+- LeadScoringCaseStudyPresentation.pdf : Presentation of the findings.
 - Leads.csv : Leads Data
 - LeadsDataDictionary.xlsx : Data Dictionary for Leads Data
 - Summary.pdf : Executive summary with techincal and business aspects of the analysis done.
